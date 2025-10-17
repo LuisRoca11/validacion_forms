@@ -1,0 +1,11 @@
+C:\Users\luis1\source\repos\validacion_forms\validacion_forms\obj\Debug\validacion_forms.csproj.AssemblyReference.cache
+C:\Users\luis1\source\repos\validacion_forms\validacion_forms\obj\Debug\validacion_forms.Form1.resources
+C:\Users\luis1\source\repos\validacion_forms\validacion_forms\obj\Debug\validacion_forms.Properties.Resources.resources
+C:\Users\luis1\source\repos\validacion_forms\validacion_forms\obj\Debug\validacion_forms.csproj.GenerateResource.cache
+C:\Users\luis1\source\repos\validacion_forms\validacion_forms\obj\Debug\validacion_forms.csproj.CoreCompileInputs.cache
+C:\Users\luis1\source\repos\validacion_forms\validacion_forms\bin\Debug\validacion_forms.exe.config
+C:\Users\luis1\source\repos\validacion_forms\validacion_forms\bin\Debug\validacion_forms.exe
+C:\Users\luis1\source\repos\validacion_forms\validacion_forms\bin\Debug\validacion_forms.pdb
+C:\Users\luis1\source\repos\validacion_forms\validacion_forms\obj\Debug\validacion_forms.exe
+C:\Users\luis1\source\repos\validacion_forms\validacion_forms\obj\Debug\validacion_forms.pdb
+C:\Users\luis1\source\repos\validacion_forms\validacion_forms\obj\Debug\validacion_forms.exe.config
